@@ -10,11 +10,11 @@ vue-饿了么
 
 ``` bash
 # install dependencies
-npm install
+cnpm install
 
 # serve with hot reload at localhost:8080
 npm run dev
-
+如果出现很多eslint错误报告的话，可以忽略一下，本人初次学习vue,所以没按照eslint规范写，但是这个程序还是能仍然能运行的，可看到饿了么界面。
 # build for production with minification
 npm run build
 
